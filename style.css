@@ -1,0 +1,84 @@
+.SFONDO{
+  background-color: black;
+  opacity: 0.8;
+  height: 850px;
+  width: 1600px;
+  margin: auto;
+  border-radius: 10px;
+
+}
+
+body{
+  background-image: url('background.jpg');
+  background-size: 1920px;
+  color: white;
+
+}
+.descrizione {
+  font-size: 15px;
+  font-family: monospace;
+}
+.nomeveicolo {
+  font-size: 30px;
+  font-family: monospace;
+
+}
+.Gino22 {
+  margin: auto;
+}
+.carica1 {
+  background-color: lightgreen;
+
+  height: 30px;
+  border-radius: 10px;
+  width: 300px;
+}
+.carica2 {
+  background-color: green;
+
+  height: 30px;
+  border-radius: 10px;
+  width: 500px;
+}
+.carica3 {
+  background-color: red;
+
+  height: 30px;
+  border-radius: 10px;
+  width: 150px;
+}
+.containerbutton {
+  margin-left: 200px;
+}
+.container2 {
+  margin: auto;
+  width: 700px;
+  background-color: lime;
+  padding: 20px;
+  height: 20px;
+}
+.container {
+  width: 600px;
+  margin: auto;
+}
+.logo {
+  width: 300px;
+  margin-left: 130px;
+}
+.logo-text {
+  font-size: 40px;
+  color: lime;
+  font-style: helvetica;
+  margin-left: 40px;
+
+}
+.Mike24 {
+  margin-top: 30px;
+}
+.Fede154 {
+  margin-top: 30px;
+}
+.VEICOLI {
+  margin-left: 430px;
+
+}
